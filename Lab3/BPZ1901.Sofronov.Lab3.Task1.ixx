@@ -11,7 +11,7 @@ namespace RBPO {
 			export double f2(double x) {
 				return (x < 3.2) ? (pow(x, 4) + 9) : (54 * pow(x, 4) / (-5 * x * x + 7));
 			}
-			export double a(int i) {
+			double a(int i) {
 				return (pow(-1.0, i) * (1 - (2 * i - 1) / (2 * (i + 1))));
 			}
 			export double f3(int n) {
