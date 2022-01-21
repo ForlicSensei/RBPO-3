@@ -147,7 +147,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BPZ1901.Sofronov.Lab3.Task1.cpp" />
     <ClCompile Include="BPZ1901.Sofronov.Lab3.Task1.ixx" />
     <ClCompile Include="BPZ1901.Sofornov.Lab3.Task2.cpp" />
     <ClCompile Include="BPZ1901.Sofornov.Lab3.Task2.ixx" />
