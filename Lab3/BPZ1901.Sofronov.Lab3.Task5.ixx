@@ -2,14 +2,14 @@ export module BPZ1901.Sofronov.Lab3.Task5;
 
 import <cmath>;
 
-export namespace RBPO {
+namespace RBPO {
 	namespace Lab3 {
 		namespace Task5 {
-			double f1(double x);
-			double f2(double x);
+			export double f1(double x);
+			export double f2(double x);
 			double a(int i);
-			double f3(int n);
-			double f4(double eps);
+			export double f3(int n);
+			export double f4(double eps);
 		}
 	}
 }

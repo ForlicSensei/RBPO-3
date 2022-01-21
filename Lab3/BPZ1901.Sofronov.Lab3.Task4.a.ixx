@@ -4,7 +4,7 @@ import <cmath>;
 namespace RBPO {
 	namespace Lab3 {
 		namespace Task4 {
-			export double a(int i);
+			double a(int i);
 		}
 	}
 }
